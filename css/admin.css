@@ -1,0 +1,21 @@
+#semuainsert{
+  margin-left: 10%;
+  margin-top: 3%;
+}
+#semuainsert div div form .form-control{
+  width: 45%;
+}
+#listtable{
+  margin-top: 3%;
+}
+#listtable thead tr th, #listtable tbody tr td{
+  text-align: center;
+}
+#tombolinsert{
+  margin-left: 5%;
+  margin-top: 3%;
+}
+#formedit{
+  margin-left: 5%;
+  margin-top: 1%;
+}
